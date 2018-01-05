@@ -258,10 +258,10 @@
         </picklistValues>
     </recordTypes>
     <recordTypes>
-        <fullName>Account_B2C</fullName>
+        <fullName>Business_Account</fullName>
         <active>true</active>
-        <description>B2C Accounts i.e. person accounts</description>
-        <label>B2C</label>
+        <description>B2B Business Account</description>
+        <label>Business Account</label>
         <picklistValues>
             <picklist>AccountSource</picklist>
             <values>
